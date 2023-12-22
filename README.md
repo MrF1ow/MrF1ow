@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hi there 👋
+___________________________________________________________________________________________________
 
-<!--
-**MrF1ow/MrF1ow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##🚀 About Me
+___________________________________________________________________________________________________
+🎓 I am Ethan Flow, an upcoming **Full Stack Developer** with a focus in **Cloud Development**, pursuing my Bachelors in **Computer Science & Engineering**.
 
-Here are some ideas to get you started:
+📖 I am really enthusiastic about learning new technologies. In 2022, I learned JavaScript, React, and Node.js. In 2022 until now, I learnt C++/C and Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎸 Outside the world of tech I love pushing myself to develop new skills ranging **car mechanics**, **dancing**, and **guitar**.
+
+📚 A new found love of mine has been reading books about **financial literacy** and listening to podcasts related to **entrepreneurship** and **personal developement**. 
+
+📅 Looking into the future, I am going to solidify my abilities with React and Node.js, while transitioning over to TypeScript. On top of this I am going to take Google's Free AI courses released with their new Gemini announcement.
