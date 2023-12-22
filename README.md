@@ -4,7 +4,7 @@
 
 🎓 I am Ethan Flow, an upcoming **Full Stack Developer** with a focus in **Cloud Development**, pursuing my Bachelors in **Computer Science & Engineering** from Oregon State University.
 
-📖 I am really enthusiastic about learning new technologies. In 2022, I learned JavaScript, React, and Node.js. In 2022 until now, I learnt C++/C and Python.
+📖 I am really enthusiastic about learning new technologies. In 2022, I learned **JavaScript**, **React**, and **Node.js**. In 2022 until now, I learnt **C++/C** and **Python**. On top of the languages I learned how to manage data using **MongoDB**, **MySQL**, and **MariaDB**.
 
 🎸 Outside the world of tech I love pushing myself to develop new skills ranging **car mechanics**, **dancing**, and **guitar**.
 
