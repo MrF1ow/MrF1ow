@@ -1,7 +1,7 @@
-# Hi there 👋
+# Hi there 👋 #
 ___________________________________________________________________________________________________
 
-##🚀 About Me
+## 🚀 About Me ##
 ___________________________________________________________________________________________________
 🎓 I am Ethan Flow, an upcoming **Full Stack Developer** with a focus in **Cloud Development**, pursuing my Bachelors in **Computer Science & Engineering**.
 
