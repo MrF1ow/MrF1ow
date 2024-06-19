@@ -1,13 +1,33 @@
-# Hi There 👋 #
+[![MasterHead](https://github.com/MrF1ow/MrF1ow/blob/main/header.png)](https://github.com/MrF1ow)
 
-## 🚀 About Me ##
+## 🚀 About Me
+🎓 Hello! I'm Ethan Flow, an aspiring Full Stack Developer. I am currently pursuing a Bachelor's degree in Computer Science & Engineering at Oregon State University.
 
-🎓 I am Ethan Flow, an upcoming **Full Stack Developer** with a focus in **Cloud Development**, pursuing my Bachelors in **Computer Science & Engineering** from Oregon State University.
+## 🌟 My Journey
+📖 My tech journey began with a passion for learning new technologies. Here's a snapshot of my progress:
 
-📖 I am really enthusiastic about learning new technologies. In 2022, I learned **JavaScript**, **React**, and **Node.js**. In 2022 until now, I learnt **C++/C** and **Python**. On top of the languages I learned how to manage data using **MongoDB**, **MySQL**, and **MariaDB**.
+- 2022: Mastered JavaScript, React, and Node.js.
+- 2023: Expanded my skill set with C++/C, Python, and database management using MongoDB, MySQL, and MariaDB.
+- 2024: Learning new technologies to integrate into projects
+## 🎸 Beyond Tech
+Outside the realm of technology, I enjoy challenging myself to acquire new skills in various fields:
 
-🎸 Outside the world of tech I love pushing myself to develop new skills ranging **car mechanics**, **dancing**, and **guitar**.
+- Exercise Science
+- Guitar
+## 📚 Personal Growth
+I'm also passionate about personal development and financial literacy. My interests include:
 
-📚 A new found love of mine has been reading books about **financial literacy** and listening to podcasts related to **entrepreneurship** and **personal developement**. 
+- Reading books on **financial literacy**
+- Listening to podcasts about **entrepreneurship** and **personal development**
 
-📅 Looking into the future, I am going to solidify my abilities with React and Node.js, while transitioning over to TypeScript. On top of this I am going to take Google's Free AI courses released with their new Gemini announcement.
+## 📅 Future Plans
+Looking ahead, my goals are:
+
+- Enhancing my proficiency Full Stack Developement
+- Becoming proficient in AI integration
+- Obtaining AWS ceritifications
+
+## 📫 Connect with Me
+Feel free to reach out if you'd like to collaborate or just chat about tech, personal growth, or any of my other interests!
+
+
