@@ -1,8 +1,8 @@
 [![MasterHead](https://github.com/MrF1ow/MrF1ow/blob/main/assets/welcome.png)](https://github.com/MrF1ow)
 
-<div style="display: flex; flex-direction: row; align-items: center;">
+<div style="display: flex; flex-direction: row; align-items: center; width: 100%;">
   <img src="https://raw.githubusercontent.com/MrF1ow/MrF1ow/main/assets/sunglass.gif" alt="SunglassGif" width="30" height="30" />
-  <h2 style="margin-left: 10px">I'm Ethan</h2>
+  <h2 style="margin: 0; margin-left: 10px;">I'm Ethan</h2>
 </div>
 <h3><em>Software Engineer</em></h3>
 <p>
@@ -30,12 +30,12 @@ Being a *software engineer* is just one piece of the puzzle. Here are a few othe
 ## 📫 Connect with Me
 A lot of people ask me, "Ethan, why don't you have social media?" Well, I do have a few accounts, but I don’t use them much. I prefer to keep my online presence low-key. I might be a bit old-fashioned, but I believe real connections happen in person. That said, I'm always open to connecting with others. If you want to reach out, feel free to shoot me an email or connect with me on LinkedIn. I'm always up for a chat about tech, gaming, or anything else that interests you!
 
-<div style="display: flex; flex-direction: row; align-items: center; gap: 10px;">
+<div style="display: flex; flex-direction: row; align-items: center;">
 <a href="mailto:eflow1280@gmail.com">
   <img src="https://raw.githubusercontent.com/MrF1ow/MrF1ow/main/assets/gmail.png" alt="Gmail" width="40" height="40" />
 </a>
 <a href="https://www.linkedin.com/in/ethanflow/">
-  <img src="https://raw.githubusercontent.com/MrF1ow/MrF1ow/main/assets/linkedin.png" alt="LinkedIn" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/MrF1ow/MrF1ow/main/assets/linkedin.png" alt="LinkedIn" width="40" height="40" style="margin-left: 10px;"/>
 </a>
 </div>
 
