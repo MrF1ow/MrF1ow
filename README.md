@@ -1,9 +1,12 @@
 [![MasterHead](https://github.com/MrF1ow/MrF1ow/blob/main/assets/welcome.png)](https://github.com/MrF1ow)
 
-## ![SunglassGif](https://raw.githubusercontent.com/MrF1ow/MrF1ow/main/assets/sunglass.gif) I'm Ethan
-### *Software Engineer*
-
-I'm a guy with a heart for technology and buidling solutions that make a difference. I have a strong foundation in many programming languages and frameworks, and I am always eager to learn more. My goal is to create innovative solutions that solve real-world problems.
+<div style="display: flex; flex-direction: row; align-items: center;">
+  <img src="https://raw.githubusercontent.com/MrF1ow/MrF1ow/main/assets/sunglass.gif" alt="SunglassGif" width="30" height="30" />
+  <h2 style="margin-left: 10px">I'm Ethan</h2>
+</div>
+<h3><em>Software Engineer</em></h3>
+<p>
+I'm a guy with a heart for technology and buidling solutions that make a difference. I have a strong foundation in many programming languages and frameworks, and I am always eager to learn more. My goal is to create innovative solutions that solve real-world problems. </p>
 
 ## 🙌 My Journey
 Fun fact, my first two years in college were in the medical field, but I quickly realized that my true passion lies in technology. Despite all the negative commentary from the current field, I made the leap into software engineering and haven't looked back since. I love the challenge of solving complex problems and the satisfaction of creating something from scratch, not going to let a little chatter stop me. 
@@ -27,8 +30,14 @@ Being a *software engineer* is just one piece of the puzzle. Here are a few othe
 ## 📫 Connect with Me
 A lot of people ask me, "Ethan, why don't you have social media?" Well, I do have a few accounts, but I don’t use them much. I prefer to keep my online presence low-key. I might be a bit old-fashioned, but I believe real connections happen in person. That said, I'm always open to connecting with others. If you want to reach out, feel free to shoot me an email or connect with me on LinkedIn. I'm always up for a chat about tech, gaming, or anything else that interests you!
 
-[![gmail](https://github.com/MrF1ow/MrF1ow/blob/main/assets/gmail.png)](mailto:eflow1280@gmail.com)
-[![linkedin](https://github.com/MrF1ow/MrF1ow/blob/main/assets/linkedin.png)](https://www.linkedin.com/in/ethanflow/)
+<div style="display: flex; flex-direction: row; align-items: center; gap: 10px;">
+<a href="mailto:eflow1280@gmail.com">
+  <img src="https://raw.githubusercontent.com/MrF1ow/MrF1ow/main/assets/gmail.png" alt="Gmail" width="40" height="40" />
+</a>
+<a href="https://www.linkedin.com/in/ethanflow/">
+  <img src="https://raw.githubusercontent.com/MrF1ow/MrF1ow/main/assets/linkedin.png" alt="LinkedIn" width="40" height="40"/>
+</a>
+</div>
 
 
 
