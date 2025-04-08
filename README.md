@@ -1,33 +1,35 @@
-[![MasterHead](https://github.com/MrF1ow/MrF1ow/blob/main/Welcome.png)](https://github.com/MrF1ow)
+[![MasterHead](https://github.com/MrF1ow/MrF1ow/blob/main/assets/welcome.png)](https://github.com/MrF1ow)
 
-## 🚀 About Me
-🎓 Hello! I'm Ethan Flow, an aspiring Full Stack Developer. I am currently pursuing a Bachelor's degree in Computer Science & Engineering at Oregon State University.
+## ![SunglassGif](https://raw.githubusercontent.com/MrF1ow/MrF1ow/main/assets/sunglass.gif) I'm Ethan
+### *Software Engineer*
 
-## 🌟 My Journey
-📖 My tech journey began with a passion for learning new technologies. Here's a snapshot of my progress:
+I'm a guy with a heart for technology and buidling solutions that make a difference. I have a strong foundation in many programming languages and frameworks, and I am always eager to learn more. My goal is to create innovative solutions that solve real-world problems.
 
-- 2022: Mastered JavaScript, React, and Node.js.
-- 2023: Expanded my skill set with C++/C, Python, and database management using MongoDB, MySQL, and MariaDB.
-- 2024: Learning new technologies to integrate into projects
-## 🎸 Beyond Tech
-Outside the realm of technology, I enjoy challenging myself to acquire new skills in various fields:
+## 🙌 My Journey
+Fun fact, my first two years in college were in the medical field, but I quickly realized that my true passion lies in technology. Despite all the negative commentary from the current field, I made the leap into software engineering and haven't looked back since. I love the challenge of solving complex problems and the satisfaction of creating something from scratch, not going to let a little chatter stop me. 
 
-- Exercise Science
-- Guitar
-## 📚 Personal Growth
-I'm also passionate about personal development and financial literacy. My interests include:
+### Here's a snapshot of my progress:
 
-- Reading books on **financial literacy**
-- Listening to podcasts about **entrepreneurship** and **personal development**
+- 2022: Became proficient in JavaScript, React, and Node.js.
+- 2023: Expanded my skill set with C/C++, Python, and database management using MongoDB, MySQL, and MariaDB.
+- 2024: Learned new Web Development technologies like Next.js and Vue.js, as well as exploring AI integration with Python and JavaScript.
+- 2025: Deepening my knowledge of SSR (Server-Side Rendering), AI integration, and exploring new languages like Zig.
 
-## 📅 Future Plans
-Looking ahead, my goals are:
-
-- Enhancing my proficiency Full Stack Developement
-- Becoming proficient in AI integration
-- Obtaining AWS ceritifications
+## 🧩 Beyond Tech
+Being a *software engineer* is just one piece of the puzzle. Here are a few other important pieces:
+- 📖**Faith**: Jesus Christ is my Lord and Savior, and I strive to live my life in a way that reflects my beliefs.
+- 👨‍👩‍👧‍👦**Family**: I cherish my family and friends, and I believe that strong relationships are the foundation of a fulfilling life.
+- 🎮**Gaming**: I love playing games like *Marvel Rivals*. These says mostly just playing to stay connected with friends, but I also enjoy the challenge of competitive gaming.
+- ⛩️**Anime**: I can't list them all, but who doens't love *JJK* and *Demon Slayer*? 
+- 💬**Languages**: I'm currently, and slowly learning **Japanese**. I believe that language is a powerful tool for connecting with others and understanding different cultures.
+- 🏋️‍♂️**Fitness**: I enjoy working out and staying active. I believe that a healthy body leads to a healthy mind.
 
 ## 📫 Connect with Me
-Feel free to reach out if you'd like to collaborate or just chat about tech, personal growth, or any of my other interests!
+A lot of people ask me, "Ethan, why don't you have social media?" Well, I do have a few accounts, but I don’t use them much. I prefer to keep my online presence low-key. I might be a bit old-fashioned, but I believe real connections happen in person. That said, I'm always open to connecting with others. If you want to reach out, feel free to shoot me an email or connect with me on LinkedIn. I'm always up for a chat about tech, gaming, or anything else that interests you!
+
+[![gmail](https://github.com/MrF1ow/MrF1ow/blob/main/assets/gmail.png)](mailto:eflow1280@gmail.com)
+[![linkedin](https://github.com/MrF1ow/MrF1ow/blob/main/assets/linkedin.png)](https://www.linkedin.com/in/ethanflow/)
+
+
 
 
