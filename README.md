@@ -1,8 +1,8 @@
 [![MasterHead](https://github.com/MrF1ow/MrF1ow/blob/main/assets/welcome.png)](https://github.com/MrF1ow)
 
-<div style="display: flex; flex-direction: row; align-items: center; width: 100%;">
+<div style="display: flex; flex-direction: row; align-items: center; width: 100vw;">
   <img src="https://raw.githubusercontent.com/MrF1ow/MrF1ow/main/assets/sunglass.gif" alt="SunglassGif" width="30" height="30" />
-  <h2>I'm Ethan</h2>
+  <h2 style="margin: 0; margin-left: 10px;">I'm Ethan</h2>
 </div>
 
 ### *Software Engineer*
