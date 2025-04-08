@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/MrF1ow/MrF1ow/blob/main/header.png)](https://github.com/MrF1ow)
+[![MasterHead](https://github.com/MrF1ow/MrF1ow/blob/main/Welcome.png)](https://github.com/MrF1ow)
 
 ## 🚀 About Me
 🎓 Hello! I'm Ethan Flow, an aspiring Full Stack Developer. I am currently pursuing a Bachelor's degree in Computer Science & Engineering at Oregon State University.
