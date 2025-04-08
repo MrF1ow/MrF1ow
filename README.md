@@ -4,9 +4,10 @@
   <img src="https://raw.githubusercontent.com/MrF1ow/MrF1ow/main/assets/sunglass.gif" alt="SunglassGif" width="30" height="30" />
   <h2 style="margin: 0; margin-left: 10px;">I'm Ethan</h2>
 </div>
-<h3><em>Software Engineer</em></h3>
-<p>
-I'm a guy with a heart for technology and buidling solutions that make a difference. I have a strong foundation in many programming languages and frameworks, and I am always eager to learn more. My goal is to create innovative solutions that solve real-world problems. </p>
+
+### *Software Engineer*
+
+I'm a guy with a heart for technology and buidling solutions that make a difference. I have a strong foundation in many programming languages and frameworks, and I am always eager to learn more. My goal is to create innovative solutions that solve real-world problems.
 
 ## 🙌 My Journey
 Fun fact, my first two years in college were in the medical field, but I quickly realized that my true passion lies in technology. Despite all the negative commentary from the current field, I made the leap into software engineering and haven't looked back since. I love the challenge of solving complex problems and the satisfaction of creating something from scratch, not going to let a little chatter stop me. 
