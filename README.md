@@ -10,18 +10,18 @@ Fun fact, my first two years in college were in the medical field, but I quickly
 
 ### Here's a snapshot of my progress:
 
-- 2022: Became proficient in JavaScript, React, and Node.js.
+- 2022: Became proficient in JavaScript/Typescript, React, and Node.js.
 - 2023: Expanded my skill set with C/C++, Python, and database management using MongoDB, MySQL, and MariaDB.
 - 2024: Learned new Web Development technologies like Next.js and Vue.js, as well as exploring AI integration with Python and JavaScript.
-- 2025: Deepening my knowledge of SSR (Server-Side Rendering), AI integration, and exploring new languages like Zig.
+- 2025: Deepening my knowledge of SSR (Server-Side Rendering), React Native, AI integration, and exploring new languages like Zig.
 
 # 🧩 Beyond Tech
 Being a *software engineer* is just one piece of the puzzle. Here are a few other important pieces:
 - 📖**Faith**: Jesus Christ is my Lord and Savior, and I strive to live my life in a way that reflects my beliefs.
-- 👨‍👩‍👧‍👦**Family**: I cherish my family and friends, and I believe that strong relationships are the foundation of a fulfilling life.
-- 🎮**Gaming**: I love playing games like *Marvel Rivals*. These says mostly just playing to stay connected with friends, but I also enjoy the challenge of competitive gaming.
+- 👨‍👩‍👧‍👦**Family**: I cherish my family and friends, and I believe that strong relationships are large piece the foundation of a fulfilling life.
+- 📚**Reading**: I love to read and deepen my knowledge in certain parts of my life. Currently reading up on faith and finances. 
+- 🎮**Gaming**: I love playing games like *The Finals* and *CSGO*. These says mostly just playing to stay connected with friends, but I also enjoy the challenge of competitive gaming.
 - ⛩️**Anime**: I can't list them all, but who doens't love *JJK* and *Demon Slayer*? 
-- 💬**Languages**: I'm currently, and slowly learning **Japanese**. I believe that language is a powerful tool for connecting with others and understanding different cultures.
 - 🏋️‍♂️**Fitness**: I enjoy working out and staying active. I believe that a healthy body leads to a healthy mind.
 
 # 📫 Connect with Me
