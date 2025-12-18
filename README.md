@@ -13,7 +13,7 @@ Fun fact, my first two years in college were in the medical field, but I quickly
 - 2022: Became proficient in JavaScript/Typescript, React, and Node.js.
 - 2023: Expanded my skill set with C/C++, Python, and database management using MongoDB, MySQL, and MariaDB.
 - 2024: Learned new Web Development technologies like Next.js and Vue.js, as well as exploring AI integration with Python and JavaScript.
-- 2025: Deepening my knowledge of SSR (Server-Side Rendering), React Native, AI integration, and exploring new languages like Zig.
+- 2025: Deepening my knowledge of SSR (Server-Side Rendering), Go Lang, and React Native.
 
 # 🧩 Beyond Tech
 Being a *software engineer* is just one piece of the puzzle. Here are a few other important pieces:
