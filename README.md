@@ -25,7 +25,7 @@ Being a *software engineer* is just one piece of the puzzle. Here are a few othe
 - 🏋️‍♂️**Fitness**: I enjoy working out and staying active. I believe that a healthy body leads to a healthy mind.
 
 # 📫 Connect with Me
-A lot of people ask me, "Ethan, why don't you have social media?" Well, I do have a few accounts, but I don’t use them much. I prefer to keep my online presence low-key. I might be a bit old-fashioned, but I believe real connections happen in person. That said, I'm always open to connecting with others. If you want to reach out, feel free to shoot me an email or connect with me on LinkedIn. I'm always up for a chat about tech, gaming, or anything else that interests you!
+A lot of people ask me, "Ethan, why don't you have social media?" Well, I do have a few accounts, but I don’t use them much. I prefer to keep my online presence low-key. That said, I'm always open to connecting with others. If you want to reach out, feel free to shoot me an email or connect with me on LinkedIn. I'm always up for a chat about tech, gaming, or anything else that interests you!
 
 <div style="display: flex; flex-direction: row; align-items: center;">
 <a href="mailto:eflow1280@gmail.com">
