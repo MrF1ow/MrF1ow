@@ -1,40 +1,44 @@
 [![MasterHead](https://github.com/MrF1ow/MrF1ow/blob/main/assets/welcome.png)](https://github.com/MrF1ow)
-# <img src="https://raw.githubusercontent.com/MrF1ow/MrF1ow/main/assets/sunglass.gif" alt="SunglassGif" width="30" height="30"/> I'm Ethan
+# <img src="https://raw.githubusercontent.com/MrF1ow/MrF1ow/main/assets/sunglass.gif" alt="SunglassGif" width="30" height="30"/> I’m Ethan
 
 ### *Software Engineer*
 
-I'm a guy with a heart for technology and buidling solutions that make a difference. I have a strong foundation in many programming languages and frameworks, and I am always eager to learn more. My goal is to create innovative solutions that solve real-world problems.
+B.S. in Computer Science from Oregon State University. I switched into CS from healthcare two years into college, and it was the best decision I’ve made. I build full-stack applications, backend services, and agentic systems - and I’m always learning something new.
 
 # 🙌 My Journey
-Fun fact, my first two years in college were in the medical field, but I quickly realized that my true passion lies in technology. Despite all the negative commentary from the current field, I made the leap into software engineering and haven't looked back since. I love the challenge of solving complex problems and the satisfaction of creating something from scratch, not going to let a little chatter stop me. 
+I started in the medical field, realized it wasn’t for me, and pivoted to software. Once problem-solving with code clicked, it clicked hard. Haven’t slowed down since.
 
-### Here's a snapshot of my progress:
+### Here’s how it’s played out:
 
-- 2022: Became proficient in JavaScript/Typescript, React, and Node.js.
-- 2023: Expanded my skill set with C/C++, Python, and database management using MongoDB, MySQL, and MariaDB.
-- 2024: Learned new Web Development technologies like Next.js and Vue.js, as well as exploring AI integration with Python and JavaScript.
-- 2025: Deepening my knowledge of SSR (Server-Side Rendering), Go Lang, and React Native.
+- **2022**: Got proficient in JavaScript/TypeScript, React, and Node.js
+- **2023**: Picked up C/C++, Python, and started working with MongoDB, MySQL, and MariaDB
+- **2024**: Went deep on Next.js and Vue.js, started building with AI integration in Python and JavaScript
+- **2025**: Graduated from Oregon State. Started working with SolidJS and exploring Go
+- **2026**: Focusing on Go backend architecture, agentic AI workflows, CI/CD pipeline design, and building developer tooling. Currently building [Go Core](https://github.com/MrF1ow/go-core) 
+
+# 🛠️ What I Work With
+
+**Backend**: Go, Node.js, Express, PostgreSQL, MongoDB, MySQL, Docker, AWS, Stripe
+
+**Frontend**: React, Next.js, SolidJS, TypeScript, JavaScript, Tailwind
+
+**Infrastructure**: Linux, Git, Docker, CI/CD, Shell Scripting, Networking
+
+**AI & Tooling**: Claude Code, Codex, OpenCode, Agentic Workflows
 
 # 🧩 Beyond Tech
-Being a *software engineer* is just one piece of the puzzle. Here are a few other important pieces:
-- 📖**Faith**: Jesus Christ is my Lord and Savior, and I strive to live my life in a way that reflects my beliefs.
-- 👨‍👩‍👧‍👦**Family**: I cherish my family and friends, and I believe that strong relationships are large piece the foundation of a fulfilling life.
-- 📚**Reading**: I love to read and deepen my knowledge in certain parts of my life. Currently reading up on faith and finances. 
-- 🎮**Gaming**: I love playing games like *The Finals* and *CSGO*. These says mostly just playing to stay connected with friends, but I also enjoy the challenge of competitive gaming.
-- ⛩️**Anime**: I can't list them all, but who doens't love *JJK* and *Demon Slayer*? 
-- 🏋️‍♂️**Fitness**: I enjoy working out and staying active. I believe that a healthy body leads to a healthy mind.
+- 📖 **Faith**: Jesus Christ is my Lord and Savior. Faith comes first — that’s non-negotiable.
+- 👨‍👩‍👧‍👦 **Family**: My wife, my mom, my siblings. They keep me grounded and I don’t take any of it for granted.
+- 🌲 **Outdoors**: Born in Oregon. Hiking, exploring, trying new things — it’s second nature.
+- 🎮 **Gaming**: *The Finals*, *CS2* — mostly to stay connected with friends, but I still like the competitive side.
+- 🏋️‍♂️ **Fitness**: Been part of my life since 15. Keeps everything else running right.
 
 # 📫 Connect with Me
-A lot of people ask me, "Ethan, why don't you have social media?" Well, I do have a few accounts, but I don’t use them much. I prefer to keep my online presence low-key. That said, I'm always open to connecting with others. If you want to reach out, feel free to shoot me an email or connect with me on LinkedIn. I'm always up for a chat about tech, gaming, or anything else that interests you!
+I keep my online presence pretty low-key, but I’m always up for a conversation about software, business ideas, or whatever else comes up. Drop me a message.
 
-<div style="display: flex; flex-direction: row; align-items: center;">
-<a href="mailto:eflow1280@gmail.com">
-  <img src="https://raw.githubusercontent.com/MrF1ow/MrF1ow/main/assets/gmail.png" alt="Gmail" width="40" height="40" />
-</a>
-<a href="https://www.linkedin.com/in/ethanflow/">
-  <img src="https://raw.githubusercontent.com/MrF1ow/MrF1ow/main/assets/linkedin.png" alt="LinkedIn" width="40" height="40" style="margin-left: 10px;"/>
-</a>
-</div>
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ethanflowdev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ethanflow/)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/MrF1ow)
 
 
 
